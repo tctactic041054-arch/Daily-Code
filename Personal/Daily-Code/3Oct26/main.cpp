@@ -1,4 +1,3 @@
-// main.cpp (ส่วนที่ต้องแก้ไข)
 #include <iostream>
 #include <cstring>
 #include "mesh_packet.hpp"
