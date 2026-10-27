@@ -1,0 +1,1 @@
+FREQ: 145 MHz | PWR: 5 W | RST: 599
